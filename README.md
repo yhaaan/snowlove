@@ -1,6 +1,6 @@
 # 눈사랑
 ### 플레이
-* [플레이 (WEB)](https://play.unity.com/en/games/5b2c0300-c291-4f9b-bd0d-40d489dab8c8/bystander)
+* [플레이 (WEB)](https://play.unity.com/en/games/1d1b722c-e0df-481e-96a2-2255d95bd800/snowman)
 * [만들래](https://mandlemandle.com/project/5e62b8/game)
   * 만들래 10분 게임 공모전 참여작입니다. 많은 관심 부탁드립니다. 
 * 조작 방법
