@@ -1,4 +1,4 @@
-# bystander(방관자)
+# 눈사랑
 ### 플레이
 * [플레이 (WEB)](https://play.unity.com/en/games/5b2c0300-c291-4f9b-bd0d-40d489dab8c8/bystander)
 * [만들래](https://mandlemandle.com/project/5e62b8/game)
